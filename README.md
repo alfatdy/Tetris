@@ -1,1 +1,1 @@
-# Tetris
+This game is played by arranging blocks that fall from the top of the screen. Players must arrange the blocks to form a complete horizontal line. If a row is full, then the row will disappear and the player will get points. The Tetris game created with the Processing application is a simple but challenging game. Players can control the falling blocks using the keyboard.
